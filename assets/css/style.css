@@ -110,8 +110,7 @@ nav select{
 }
 /* estimate section end */
 footer{
-      
-       
+    overflow-x: hidden; /* Hides horizontal scrollbar */
     background: linear-gradient(rgb(31, 27, 42,0.9),rgb(31, 27, 42,0.9)),url(../images/footer.jpg); 
     background-position: center;
     background-size: cover;
